@@ -1,6 +1,6 @@
 # UAS-RAD
 web api using python
-Ini adalah contoh aplikasi Python yang mendemonstrasikan penggunaan yang sangat sederhana dari REST API dari aplikasi Web.
+Ini adalah contoh aplikasi Python yang mendemonstrasikan penggunaan yang sangat sederhana dari REST API example dari aplikasi Web.
 Hambatan awal terbesar bagi pengembang biasanya membuat autentikasi OAuth berfungsi dengan baik, sehingga sebagian besar contoh ini didedikasikan untuk itu.
 Anda memerlukan kunci dan rahasia partner OAuth agar aplikasi sampel berhasil dijalankan.
 Contoh ini menggunakan kerangka kerja Web Python kecil, web.py untuk menjalankan aplikasi Web guna mendemonstrasikan pengalihan OAuth lengkap, otentikasi, aliran pengalihan.
